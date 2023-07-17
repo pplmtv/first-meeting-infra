@@ -1,1 +1,1 @@
-# first-meeting-infra
+# firstme-infra
